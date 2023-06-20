@@ -1,0 +1,76 @@
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #000;
+}
+header{
+	background-color: #fff;
+	padding: 15px 0;
+	border-bottom: 1px solid #eee;
+}
+.section{
+	padding: 60px 0;
+}
+.titulo{
+	color: #161b37;
+	font-size: 44px;
+	margin: 40px 0;
+	font-weight: 700;
+}
+#hero{
+	background-color: #fffcf9;
+}
+#hero h1{
+	font-weight: 700;
+	font-size: 50px;
+	margin-top: 25%;
+	margin-bottom: 20px;
+}
+#hero p{
+	font-weight: 600;
+}
+#features{
+	background-color: #fff;
+}
+#features h6{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 20px;
+	font-weight: 700;
+}
+#find-out{
+	background-color: #ffd2b1;
+	color: #242230;
+	text-align: center;;
+}
+#find-out p{
+	margin: 0 20% 30px;
+}
+.btn-getstarted{
+	background-color: #EC4C4E;
+	color: #fff;
+	border-radius: 30px;
+	margin: 5px 40px;
+}
+footer{
+	background-color: #161b37;
+	color: #FFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
